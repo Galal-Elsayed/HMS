@@ -50,11 +50,6 @@ hms/
   └── README.md
 ```
 
-## License
-Specify your license here (e.g., LGPL-3, OPL-1, etc.).
-
 ## Author
-- Your Name or Organization
-
+Galal Elsayed
 ---
-For more information, refer to the code and XML files in each directory.
